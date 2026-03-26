@@ -3,7 +3,7 @@ module.exports = {
   // 网站的标题
   title: "你不知道的 JavaScript 中文",
   // 上下文根
-  base: "/doc-ydkjs/",
+  base: "/You-Dont-Know-JS-zh/",
   themeConfig: {
     // 假定是 GitHub. 同时也可以是一个完整的 GitLab URL
     repo: "gdut-yy/You-Dont-Know-JS-zh",
